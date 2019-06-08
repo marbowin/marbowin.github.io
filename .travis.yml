@@ -16,3 +16,5 @@ deploy:
   keep-history: true
   local-dir: output
   target_branch: master
+  on:
+    branch: page
