@@ -5,8 +5,9 @@ from __future__ import unicode_literals
 AUTHOR = u'Martin Winther'
 SITENAME = u'Venencenter'
 SITEURL = ''
-THEME = 'themes/bootstrap2'
-#THEME = 'themes/alchemy/alchemy'
+#THEME = 'themes/zurb-F5-basic'
+#THEME = 'themes/elegant'
+THEME = 'themes/bootlex'
 
 PATH = 'content'
 
