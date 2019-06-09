@@ -1,10 +1,11 @@
-Title: My super title
-Date: 2010-12-03 10:20
-Modified: 2010-12-05 19:30
+Title: Erster Inhalt
+Date: 2019-06-09
+Modified: 
 Category: Python
 Tags: pelican, publishing
-Slug: my-super-post
-Authors: Alexis Metaireau, Conan Doyle
+Slug: first post
+Authors: Martin Winther
 Summary: Short version for index and feeds
 
-This is the content of my super blog post.
+Pfingsten 2019 startet die Website. 
+Neu hinzugefügt sind die Kapitel über die Halsschlagader. 
