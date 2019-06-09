@@ -1,3 +1,3 @@
 Title: Home
 
-Home-Verzeichnis und Anleitung
+Über das Drop-Down-Menü in der Kopfzeile rechts können die einzelnen Themen aufgerufen werden.
