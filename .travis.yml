@@ -14,6 +14,7 @@ deploy:
   provider: pages
   skip-cleanup: true
   github-token: $GITHUB_TOKEN
+  fqdn: venencenter.eu
   keep-history: true
   local-dir: output
   target_branch: master
