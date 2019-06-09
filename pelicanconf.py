@@ -6,8 +6,8 @@ AUTHOR = u'Martin Winther'
 SITENAME = u'Venencenter'
 SITEURL = ''
 #THEME = 'themes/zurb-F5-basic'
-#THEME = 'themes/elegant'
-THEME = 'themes/bootlex'
+THEME = 'themes/elegant'
+#THEME = 'themes/bootlex'
 
 PATH = 'content'
 
