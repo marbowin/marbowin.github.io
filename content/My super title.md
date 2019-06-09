@@ -1,7 +1,7 @@
 Title: Einführung
 Date: 2019-06-09
 Category: Python
-Tags: pelican, publishing
+Tags: Home, Einführung, Menü
 Slug: Erster-Post
 Authors: Martin Winther
 Summary: Kurze Einführung
