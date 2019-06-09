@@ -8,6 +8,8 @@ entwickelte sich der CarotisClub zu einer festen Institution.
 
 Aktuell findet der CarotisClub als zertifizierte Fortbildung im Klinikum Leer einmal monatlich statt. 
 Die teilnehmenden Fachdisziplinen sind Angiologie (Internistische Gefäßmedizin), Neurologie und Gefäßchirurgie. 
+Die Gefäßchirurgie umfasst sowohl die eigentlichen operativen Verfahren als auch die Verfahren mit Kathetern und Stents und kann sich somit als Chirurgische und Interventionelle Gefäßmedizin bezeichnen. 
+Die neue Variante des CarotisClubs ist somit noch umfassender, da alle Disziplinen der Gefäßmedizin, auch die Angiologie, vertreten sind. 
 
 Die Indikationsstellung zur Operation einer Verengung der Halsschlagader muss sehr sorgfältig gestellt werden. 
 Die medikamentöse Therapie hat in den letzten Jahren deutliche Fortschritte bei der Vermeidung von Schlaganfällen erzielt.
