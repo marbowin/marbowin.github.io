@@ -2,7 +2,7 @@ Title: Varicosis
 Date: 2019-06-10
 Modified: 2019-06-10
 Category: Venenerkrankungen
-Tags: Varicosis, Krampfader, Varize, Vena
+Tags: Varicosis, Krampfader, Varize, Vena, Ultraschall, Duplex, Farbduplex
 Authors: Martin Winther
 Summary: Grundsätzliches zu Krampfadern
 
@@ -12,3 +12,21 @@ Krampfadern können Beschwerden und offene Beine verursachen, oder auch nur unsc
 Durch die chronische venöse Stauung verursachen länger bestehende Krampfadern typische Veränderungen der Haut.
 Diese Hautveränderungen werden häufig nicht mit dem Krampfaderleiden in Verbindung gebracht. 
 In der Sprechstunde sieht man häufig chronische Hautveränderungen der Beine, deren Zusammenhang mit dem Krampfaderleiden nicht erkannt wurden. 
+
+# Krampfadern untersuchen
+
+Zur Untersuchung gehört neben der Betrachtung vor allem die Ultraschall-Untersuchung. 
+Mit der **Farbduplex-Sonografie** können die Veränderungen und Klappenschäden beurteilt werden, 
+die zum Rückfluss in der Vene führen.
+Auf der Grundlage dieser Ergebnisse kann die erforderliche Behandlung festgelegt werden. 
+
+# Krampfadern behandeln
+
+Neben den Verödungsbehandlungen gibt es als klassische Lösung die offene OP. 
+Die **Laser**- oder Radiofrequenzbehandlung nimmt eine Stellung dazwischen ein. 
+Hierbei erfolgt ebenso wie bei der Verödung nur eine Punktion und keine offene Operation mit 
+Schnitt in der Leiste und Herausziehen der Krampfader.
+Das Ergebnis der Laser-Bahandlung entspricht eher dem der Operation, da hier das 
+gesamte erkrankte Segment der Krampfader behandelt wird. 
+Generell ist anzumerken, dass nicht jeder Eingriff auf jede Krampfader optimal angewendet werden kann. 
+
