@@ -2,7 +2,7 @@ Title: CarotisClub
 Date: 2019-06-09
 Modified: 2019-06-10
 Category: Hirnversorgende Gefäße
-Tags: Carotis, Halsschlagader, Apoplex, Schlaganfall
+Tags: Carotis, Halsschlagader, Apoplex, Schlaganfall, Ultraschall, GUM
 Authors: Martin Winther
 Summary: Carotis Indikation
 
