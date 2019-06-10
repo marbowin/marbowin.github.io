@@ -6,6 +6,7 @@ Der Vorteil dieser Methode ist, dass sie ohne Fremdmaterial auskommt.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rV2_ocUe4KM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 * 0:00 **Präparation** der Gefäßgabel, der Kopf ist rechts.
 * 1:37 **Austrennen** der verengten Carotis interna aus der Gefäßgabel
 * 2:50 **Umstülpen** des Gefäßes und Herausschälen des Verkalkungszylinders
