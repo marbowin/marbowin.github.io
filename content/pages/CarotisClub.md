@@ -33,5 +33,7 @@ hochauflösenden Ultraschalluntersuchung (Farbduplex) durch einen qualifizierten
 
 Alle Untersucher sind sehr erfahrene Ultraschaller. Dr. Winther ist hier ein besonders qualifizierter Untersucher, dem die Deutsche Gesellschaft für Ultraschall (DEGUM) bereits vor vielen Jahren die Stufe 2 verliehen hat. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WzySw7sTPKk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Jeder Fall wird einzeln im CarotisClub besprochen und die optimale Behandlungsstrategie festgelegt. 
 Auch die Nachuntersuchung nach erfolgtem Eingriff erfolgt durch einen Facharzt für Neurologie. 
