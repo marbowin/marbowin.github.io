@@ -1,5 +1,10 @@
 Title: Varicosis
+Date: 2019-06-10
+Modified: 2019-06-10
+Category: Venenerkrankungen
 Tags: Varicosis, Krampfader, Varize, Vena
+Authors: Martin Winther
+Summary: Grundsätzliches zu Krampfadern
 
 # Krampfadern verursachen Hautschäden
 
